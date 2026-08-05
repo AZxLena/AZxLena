@@ -73,7 +73,7 @@
 
 [![Project Showcase](https://img.shields.io/badge/عرض_المشروع-111111?style=for-the-badge&logo=github)](https://github.com/AZxLena/azx-digital-solutions-showcase)
 
-### Bubba Arab Main
+### [Bubba Arab Main](https://github.com/AZxLena/bubba-arab-main-showcase)
 
 منصة مجتمع متكاملة مرتبطة بموقع وبوت Discord، تشمل:
 
@@ -83,6 +83,8 @@
 - بطولات ولوحات صدارة.
 - تذاكر متزامنة بين الموقع وDiscord.
 - لوحة إدارة وتشغيل للمجتمع.
+
+[![Project Showcase](https://img.shields.io/badge/عرض_المشروع-8B0000?style=for-the-badge&logo=github)](https://github.com/AZxLena/bubba-arab-main-showcase)
 
 ## ما أعمل عليه حاليًا
 
