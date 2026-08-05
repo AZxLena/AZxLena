@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://azxdigital.ai.studio">
+  <img src="./assets/azx-logo.svg" width="170" alt="AZx Digital Solutions logo" />
+</a>
+
 # AZx Digital Solutions
 
 ### حلول رقمية مترابطة من الفكرة إلى الإطلاق
