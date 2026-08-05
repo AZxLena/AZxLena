@@ -59,7 +59,7 @@
 
 ## أعمال ومشاريع
 
-### AZx Digital Solutions
+### [AZx Digital Solutions](https://github.com/AZxLena/azx-digital-solutions-showcase)
 
 منصة متكاملة لطلب وإدارة المشاريع الرقمية، تشمل:
 
@@ -70,6 +70,8 @@
 - دعم فني ومحادثات وتذاكر.
 - فواتير وعقود ومساحات مشاريع.
 - تكاملات مع Discord وأنظمة التشغيل.
+
+[![Project Showcase](https://img.shields.io/badge/عرض_المشروع-111111?style=for-the-badge&logo=github)](https://github.com/AZxLena/azx-digital-solutions-showcase)
 
 ### Bubba Arab Main
 
