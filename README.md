@@ -1,105 +1,71 @@
 <div align="center">
 
-<a href="https://azxdigital.ai.studio">
-  <img src="./assets/azx-logo.svg" width="170" alt="AZx Digital Solutions logo" />
-</a>
+# Sadeem Studio
 
-# AZx Digital Solutions
+### Building modern Discord products, dashboards & connected web experiences.
 
-### حلول رقمية مترابطة من الفكرة إلى الإطلاق
+<br />
 
-أبني مواقع ومنصات، أنظمة Discord، لوحات تحكم، تكاملات وأتمتة  
-بتجربة عربية واضحة وتصميم يعكس هوية كل مشروع.
-
-[![Website](https://img.shields.io/badge/زيارة_الموقع-AZx_Digital_Solutions-EC1685?style=for-the-badge)](https://azxdigital.ai.studio)
+![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
 ---
 
-## نبذة
+## About the Studio
 
-أنا مطوّر ومصمم حلول رقمية أعمل تحت اسم **AZx Digital Solutions**.
+**Sadeem Studio** is my space for building products that connect communities, bots, dashboards and web apps into one clean experience.
 
-أركز على بناء مشاريع متكاملة بدل الخدمات المنفصلة؛ بداية من تصميم الواجهة والهوية، مرورًا بالتطوير والربط مع Discord، ووصولًا إلى لوحات الإدارة، الدعم الفني، الأتمتة والتشغيل.
+I care about the part that happens after the interface too — buttons should work, settings should actually reach the backend, and the product should feel complete from UI to real behavior.
 
-هدفي أن يكون المشروع جميلًا بصريًا، سهل الاستخدام، وقابلًا للعمل والتوسع فعلًا.
+## Current Focus
 
-## الخدمات
+- **SADEEM** — a Discord management platform built around moderation, automation, server tools and a connected dashboard.
+- **SADEEM Music** — a focused music experience for Discord communities.
+- Arabic-first interfaces that still feel polished and modern.
+- Real-time dashboards, analytics, logs and automation.
+- Turning complex admin tools into simple workflows.
 
-- تصميم وتطوير المواقع والمنصات الرقمية.
-- تطوير بوتات وأنظمة Discord المخصصة.
-- إعداد مجتمعات Discord وتصميم الرومات والصلاحيات.
-- تصميم الشعارات والهوية البصرية والواجهات.
-- بناء لوحات تحكم للعملاء والإدارة.
-- أنظمة الدعم الفني والتذاكر والمحادثات.
-- ربط المواقع مع Discord وقواعد البيانات.
-- التكاملات والأتمتة وتقليل العمل اليدوي.
+## How I Build
 
-## التقنيات والأدوات
+```text
+Idea → Interface → API → Bot / Backend → Real Result
+```
+
+No fake controls. No disconnected screens. If it exists in the UI, the goal is for it to actually work.
+
+## Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react)
-![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase)
-![Discord.js](https://img.shields.io/badge/Discord.js-111111?style=flat-square&logo=discord)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma)
-![Illustrator](https://img.shields.io/badge/Illustrator-111111?style=flat-square&logo=adobeillustrator)
-![Canva](https://img.shields.io/badge/Canva-111111?style=flat-square&logo=canva)
+![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-171717?style=flat-square&logo=react)
+![Vite](https://img.shields.io/badge/Vite-171717?style=flat-square&logo=vite)
+![Node.js](https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-171717?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql)
+![Discord.js](https://img.shields.io/badge/Discord.js-171717?style=flat-square&logo=discord)
+![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github)
+![Figma](https://img.shields.io/badge/Figma-171717?style=flat-square&logo=figma)
 
 </div>
 
-## أعمال ومشاريع
+## Studio Principles
 
-### [AZx Digital Solutions](https://github.com/AZxLena/azx-digital-solutions-showcase)
-
-منصة متكاملة لطلب وإدارة المشاريع الرقمية، تشمل:
-
-- نموذج طلب مشاريع متعدد الخدمات.
-- لوحة خاصة لكل عميل.
-- لوحة تشغيل وإدارة.
-- متابعة المراحل والتعديلات والملفات.
-- دعم فني ومحادثات وتذاكر.
-- فواتير وعقود ومساحات مشاريع.
-- تكاملات مع Discord وأنظمة التشغيل.
-
-[![Project Showcase](https://img.shields.io/badge/عرض_المشروع-111111?style=for-the-badge&logo=github)](https://github.com/AZxLena/azx-digital-solutions-showcase)
-
-### [Bubba Arab Main](https://github.com/AZxLena/bubba-arab-main-showcase)
-
-منصة مجتمع متكاملة مرتبطة بموقع وبوت Discord، تشمل:
-
-- تسجيل الدخول عبر Discord.
-- ملفات اللاعبين والإحصائيات.
-- تحديات 1v1 ونظام تصنيف.
-- بطولات ولوحات صدارة.
-- تذاكر متزامنة بين الموقع وDiscord.
-- لوحة إدارة وتشغيل للمجتمع.
-
-[![Project Showcase](https://img.shields.io/badge/عرض_المشروع-8B0000?style=for-the-badge&logo=github)](https://github.com/AZxLena/bubba-arab-main-showcase)
-
-## ما أعمل عليه حاليًا
-
-- تحسين تجربة المستخدم العربية.
-- تطوير أنظمة Discord مرتبطة بالمواقع.
-- بناء لوحات تحكم عملية وسهلة.
-- رفع مستوى الأمان والاستقرار والأداء.
-- تحويل الأفكار إلى منتجات رقمية قابلة للاستخدام.
+> Simple to use.  
+> Connected end-to-end.  
+> Built with a clear identity.  
+> Designed to feel like one product — not a collection of pages.
 
 ---
 
 <div align="center">
 
-### فكرتك تستحق تنفيذًا يُظهر قيمتها.
-
-[الموقع الرسمي](https://azxdigital.ai.studio)
+### Sadeem Studio
+**Build less noise. Ship something that works.**
 
 </div>
