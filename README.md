@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/sadeem-studio-logo.svg" width="900" alt="SADEEM STUDIO" />
+<img src="./assets/sadeem-studio-logo.png" width="820" alt="SADEEM STUDIO" />
 
 ### Building modern Discord products, dashboards & connected web experiences.
 
